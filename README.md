@@ -5,19 +5,19 @@
    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=03adi&label=Profile%20views&color=0e75b6&style=flat" alt="03adi" /> </p>
     
-<p align="left"> <a href="https://twitter.com/adityaprak74416" target="blank"><img src="https://img.shields.io/twitter/follow/adityaprak74416?logo=twitter&style=for-the-badge" alt="adityaprak74416" /></a> </p>   
+<p align="left"> <a href="https://twitter.com/adityaprak74416" target="blank"><img src="https://img.shields.io/twitter/follow/adityaprak74416?logo=twitter&style=for-the-badge" alt="pranjal0715" /></a> </p>   
 
-- 🔭 I’m currently working on -- *Shopify plugin's development*
+- 🔭 I’m currently working on -- *Next.JS Built E-commerce Web App*
 
-- 🌱 I’m currently learning -- *PHP , JavaScript , Shopify , Ngrok*
+- 🌱 I’m currently learning -- *Node.JS , JavaScript , Next.js , Express.JS*
 
-- 👨‍💻 All of my projects are available at -- [https://03adi.github.io/Personal-Portfolio/](https://03adi.github.io/Personal-Portfolio/)
+- 👨‍💻 All of my projects are available at -- [https://03adi.github.io/Personal-Portfolio/](https://prnjl-here.netlify.app/)
 
-- 📝 I regularly write articles on -- [https://linktr.ee/03aditya](https://linktr.ee/03aditya)
+- 📝 I regularly write articles on -- [https://linktr.ee/03aditya]((https://www.linkedin.com/in/pranjal-pandey-591364245/))
 
-- 💬 Ask me about -- *JAVA Development, PHP Development*
+- 💬 Ask me about -- *Web Development*
 
-- 📫 How to reach me -- *adityapandey03012003@gmail.com*
+- 📫 How to reach me -- *pranjalpandey843@gmail.com*
 
 - 📄 Updated Resume -- [https://drive.google.com/file/d/1fSmR0k6AWfSAtazgMXzz86MI3K-wFaz7/view](https://drive.google.com/file/d/1fSmR0k6AWfSAtazgMXzz86MI3K-wFaz7/view)
 
