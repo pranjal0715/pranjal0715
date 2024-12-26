@@ -1,6 +1,6 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ![logo](https://github.com/03Adi/03Adi/blob/main/github-header-image%20(3).png)
-<h3 align="center">Aditya this side a (Passionate - Software Developer) at OWY Technosys Pvt. Ltd.</h3>
+<h3 align="center">Pranjal this side a Manager with some coding skills at Zweler Gems Pvt. Ltd.</h3>
 <img align="right" alt="Coding" width="390" src="https://octodex.github.com/images/daftpunktocat-guy.gif"> 
    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=03adi&label=Profile%20views&color=0e75b6&style=flat" alt="03adi" /> </p>
@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning -- *Node.JS , JavaScript , Next.js , Express.JS*
 
-- 👨‍💻 All of my projects are available at -- [https://03adi.github.io/Personal-Portfolio/](https://prnjl-here.netlify.app/)
+- 👨‍💻 All of my projects are available at -- [https://prnjl-here.netlify.app//](https://prnjl-here.netlify.app/)
 
-- 📝 I regularly write articles on -- [https://linktr.ee/03aditya]((https://www.linkedin.com/in/pranjal-pandey-591364245/))
+- 📝 I regularly write articles on -- [https://www.linkedin.com/in/pranjal-pandey-591364245/]((https://www.linkedin.com/in/pranjal-pandey-591364245/))
 
-- 💬 Ask me about -- *Web Development*
+- 💬 Ask me about -- *Web Development, Management*
 
 - 📫 How to reach me -- *pranjalpandey843@gmail.com*
 
@@ -23,13 +23,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/adityaprak74416" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityaprak74416" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aditya033/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya033/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/28450906/aditya-prakash-pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/28450906/aditya-prakash-pandey" height="30" width="40" /></a>
-<a href="https://www.instagram.com/adityaprakashpandey_03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_.aditya09._/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/adityapandey0301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/adityapandey0301" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Adityaprakashpandey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/adityaprakashpandey/" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/adityapandey03012003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/adityapandey03012003/" height="30" width="40" /></a>
+<a href="https://x.com/_Shubham0715?t=WnQ9M7J0GDItkmP_ewqv8A&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranjal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pranjal-pandey-591364245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prnjl" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23388749/pranjal-pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="prnjl" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_prnjl_here_/profilecard/?igsh=MWF5N2YyYnY1N2JmaQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prnjl" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/pranjalpandey843" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prnjl" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/pranjalpandey843/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prnjl" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/user_jq5sv9kkxhf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prnjl" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
