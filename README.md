@@ -79,12 +79,12 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql server" width="40" height="40"/>
   </a>
-   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=03adi&show_icons=true&locale=en&layout=compact" alt="03adi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranjal0715&show_icons=true&locale=en&layout=compact" alt="pranjal0715" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=03adi&show_icons=true&locale=en" alt="03adi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranjal0715&show_icons=true&locale=en" alt="pranjal0715" /></p>
 
-<a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=03Adi" alt="GitHub Streak" />
+<a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=pranjal0715" alt="GitHub Streak" />
