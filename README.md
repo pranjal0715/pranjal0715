@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at -- [https://prnjl-here.netlify.app//](https://prnjl-here.netlify.app/)
 
-- 📝 I regularly write articles on -- [https://www.linkedin.com/in/pranjal-pandey-591364245/]((https://www.linkedin.com/in/pranjal-pandey-591364245/))
+- 📝 I regularly write articles on -- [https://www.linkedin.com/in/pranjal-pandey-591364245/](https://www.linkedin.com/in/pranjal-pandey-591364245/)
 
 - 💬 Ask me about -- *Web Development, Management*
 
