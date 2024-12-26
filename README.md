@@ -1,11 +1,11 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ![logo](https://github.com/03Adi/03Adi/blob/main/github-header-image%20(3).png)
-<h3 align="center">Pranjal this side a Manager with some coding skills at Zweler Gems Pvt. Ltd.</h3>
+<h3 align="center">Pranjal this side, a Manager with some coding skills at Zweler Gems Pvt. Ltd.</h3>
 <img align="right" alt="Coding" width="390" src="https://octodex.github.com/images/daftpunktocat-guy.gif"> 
    
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=03adi&label=Profile%20views&color=0e75b6&style=flat" alt="03adi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjal0715&label=Profile%20views&color=0e75b6&style=flat" alt="pranjal0715" /> </p>
     
-<p align="left"> <a href="https://twitter.com/adityaprak74416" target="blank"><img src="https://img.shields.io/twitter/follow/adityaprak74416?logo=twitter&style=for-the-badge" alt="pranjal0715" /></a> </p>   
+<p align="left"> <a href="https://x.com/i/flow/login?redirect_after_login=%2F_Shubham0715" target="blank"><img src="https://img.shields.io/twitter/follow/pranjal0715?logo=twitter&style=for-the-badge" alt="pranjal0715" /></a> </p>   
 
 - 🔭 I’m currently working on -- *Next.JS Built E-commerce Web App*
 
