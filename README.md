@@ -88,3 +88,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranjal0715&show_icons=true&locale=en" alt="pranjal0715" /></p>
 
 <a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=pranjal0715" alt="GitHub Streak" />
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
