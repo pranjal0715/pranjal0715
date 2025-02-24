@@ -19,7 +19,7 @@
 
 - 📫 How to reach me -- *pranjalpandey843@gmail.com*
 
-- 📄 Updated Resume -- [https://drive.google.com/file/d/1fSmR0k6AWfSAtazgMXzz86MI3K-wFaz7/view](https://drive.google.com/file/d/1Supy7XO0MwJSrwhbKWXHHJb9TF6vXpTr/view?usp=drive_link)
+- 📄 Updated Resume -- [https://drive.google.com/file/d/1fSmR0k6AWfSAtazgMXzz86MI3K-wFaz7/view](https://drive.google.com/file/d/1u67bwpXr7u-96HqRN91aFgCTALjHtcGO/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
