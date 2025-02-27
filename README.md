@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on -- *Next.JS Built E-commerce Web App*
 
-- 🌱 I’m currently learning -- *Node.JS , JavaScript , Next.js , Express.JS*
+- 🌱 I’m currently learning -- *Node.JS , JavaScript , Next.js , Express.JS, Mongodb*
 
 - 👨‍💻 All of my projects are available at -- [https://prnjl-here.netlify.app//](https://prnjl-here.netlify.app/)
 
