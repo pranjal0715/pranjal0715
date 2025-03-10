@@ -82,7 +82,6 @@
    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranjal0715&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranjal0715&show_icons=true&locale=en&layout=compact" alt="pranjal0715" /></p>
 
