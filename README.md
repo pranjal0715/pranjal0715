@@ -5,8 +5,7 @@
 
 ## Leet Code Badges
 <p align="center" >
- [ <img src="https://github.com/pranjal0715/pranjal0715/blob/main/LeetCode%20Badges/50%20Days%20Badge%202025.gif" alt="50 Days Badge 2025" height="70">](https://raw.githubusercontent.com/pranjal0715/pranjal0715/main/LeetCode%20Badges/50%20Days%20Badge%202025.gif
-)
+  <img src ="https://github.com/pranjal0715/pranjal0715/blob/main/LeetCode%20Badges/50%20Days%20Badge%202025.gif alt="50 Days Badge" height="70"">
   <img src="https://github.com/pranjal0715/pranjal0715/blob/main/LeetCode%20Badges/Feb%20Badge%202025.gif" alt="Feb Badge 2025" height="70">
   <img src="https://github.com/pranjal0715/pranjal0715/blob/main/LeetCode%20Badges/Mar%20Badge%202025.gif" alt="Mar Badge 2025" height="70">
 </p>
