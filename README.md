@@ -5,11 +5,11 @@
 
 ## Leet Code Badges
 <p align="center" >
-  <img src="https://github.com/prakharmishra2002/prakharmishra2002/blob/main/LeetCode%20Badges/Dec%20Badge%202024.gif" alt="Dec Badge 2024" height="70">
-  <img src="https://github.com/prakharmishra2002/prakharmishra2002/blob/main/LeetCode%20Badges/Jan%20Badge%202025.gif" alt="Jan Badge 2025" height="70">
-  <img src="https://github.com/prakharmishra2002/prakharmishra2002/blob/main/LeetCode%20Badges/50%20Days%20Badge%202025.gif" alt="50 Days Badge 2025" height="70">
-  <img src="https://github.com/prakharmishra2002/prakharmishra2002/blob/main/LeetCode%20Badges/Feb%20Badge%202025.gif" alt="Feb Badge 2025" height="70">
-  <img src="https://github.com/prakharmishra2002/prakharmishra2002/blob/main/LeetCode%20Badges/Mar%20Badge%202025.gif" alt="Mar Badge 2025" height="70">
+  <img src="https://github.com/prakharmishra2002/pranjal0715/blob/main/LeetCode%20Badges/Dec%20Badge%202024.gif" alt="Dec Badge 2024" height="70">
+  <img src="https://github.com/prakharmishra2002/pranjal0715/blob/main/LeetCode%20Badges/Jan%20Badge%202025.gif" alt="Jan Badge 2025" height="70">
+  <img src="https://github.com/prakharmishra2002/pranjal0715/blob/main/LeetCode%20Badges/50%20Days%20Badge%202025.gif" alt="50 Days Badge 2025" height="70">
+  <img src="https://github.com/prakharmishra2002/pranjal0715/blob/main/LeetCode%20Badges/Feb%20Badge%202025.gif" alt="Feb Badge 2025" height="70">
+  <img src="https://github.com/prakharmishra2002/pranjal0715/blob/main/LeetCode%20Badges/Mar%20Badge%202025.gif" alt="Mar Badge 2025" height="70">
 </p>
    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjal0715&label=Profile%20views&color=0e75b6&style=flat" alt="pranjal0715" /> </p>
