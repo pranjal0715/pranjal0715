@@ -3,6 +3,7 @@
 <h3 align="center">Pranjal this side, An IT Manager With Some Coding Skills at Zweler Gems Pvt. Ltd. </h3>
 <img align="right" alt="Coding" width="390" src="https://octodex.github.com/images/daftpunktocat-guy.gif"> 
 
+
 ## Leet Code Badges
 <p align="center" >
   <img src ="https://github.com/pranjal0715/pranjal0715/blob/main/LeetCode%20Badges/50%20Days%20Badge%202025.gif alt="50 Days Badge" height="70"">
